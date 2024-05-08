@@ -1,6 +1,6 @@
 # EX-05 Implementation of XOR  using RBF
 ### Aim:
-To implement a XOR gate classification using Radial Basis Function  Neural Network. &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**DATE:**
+To implement a XOR gate classification using Radial Basis Function  Neural Network. &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**DATE:27.04.2024**
 
 ### Theory:
 Exclusive or is a logical operation that outputs true when the inputs differ.For the XOR gate, the TRUTH table will be as follows XOR truth table.
